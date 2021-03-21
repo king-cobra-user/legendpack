@@ -37,9 +37,9 @@ _set_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $CATPATH
-    echo "    Starting LEGENDBOT    "
+    echo "    Starting DEATH-NOTE   "
     echo "
-                        LEGEND BOT IS RUNNING IS ON THE WAY
+                        DEATH BOT IS RUNNING IS ON THE WAY
     "
 
     echo "
