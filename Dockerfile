@@ -1,4 +1,4 @@
-FROM LEGENDXOP/LEGEND-BOT:alpine
+FROM DEVIL/DEATHNOTE-BOT:alpine
 
 #clonning repo 
 RUN git clone https://github.com/LEGENDXOP/LEGEND-BOT.git /root/userbot
